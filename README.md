@@ -8,8 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/-Marco_Marrocu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marrocumarco/)](https://www.linkedin.com/in/marrocumarco/)
 [![GitHub](https://img.shields.io/github/followers/marrocumarco?label=follow&style=social)](https://github.com/marrocumarco)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marrocumarco&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marrocumarco&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🖥️ Projects
 
