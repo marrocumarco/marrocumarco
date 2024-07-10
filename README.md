@@ -1,4 +1,4 @@
-# Welcome to Marco Marrocu's GitHub page!
+# Welcome to Marco Marrocu's GitHub page
 
 📱 I am an iOS developer from Sardinia. 🌊
  I love programming 💻, playing tennis 🎾, rock music 🎸 and making wine 🍇.
@@ -13,11 +13,14 @@
 ## 🖥️ Projects
 
 ### [🎾 Set-Point](https://github.com/marrocumarco/Set-Point/)
+[![App Store](./assets/images/app_store_logo.svg)](https://apps.apple.com/app/set-point/id6505079778)
+
 Set-Point is a watchOS scorekeeping app designed for tennis, padel and similar sports, tracking scores directly from the Apple Watch.
 
 - Technologies: Swift, SwiftUI, Combine, SwiftLint, XCTest
 
-## 🌱 I’m currently learning 
+## 🌱 I’m currently learning
+
 - Android development with Kotlin 🤖
 
 <!--
