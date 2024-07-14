@@ -26,11 +26,16 @@ Set-Point is a watchOS scorekeeping app designed for tennis, padel and similar s
 
 ## 🔭 I’m currently working on
 
-- [🍷 Demo Liquid-Commerce](https://github.com/marrocumarco/Demo-Liquid-Commerce)
+### [🍷 Demo Liquid-Commerce](https://github.com/marrocumarco/Demo-Liquid-Commerce)
+
 Demo Liquid-Commerce is an iOS native e-commerce app that connects the users with the existing [web store](https://www.demoliquid.it), with a modern, user friendly interface.
+
 - Technologies:
-        - FE: Swift, SwiftUI, CommonCrypto, SwiftLint, XCTest
-        - BE: [Woocommerce Api](https://woocommerce.github.io/woocommerce-rest-api-docs/#), [Stripe Api](https://github.com/stripe/stripe-ios), JSON
+
+  - FE: Swift, SwiftUI, CommonCrypto, SwiftLint, XCTest
+  
+  - BE: [Woocommerce Api](https://woocommerce.github.io/woocommerce-rest-api-docs/#), [Stripe Api](https://github.com/stripe/stripe-ios), JSON
+  
 <!--
 **marrocumarco/marrocumarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
