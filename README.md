@@ -26,6 +26,12 @@ Set-Point is a watchOS scorekeeping app designed for tennis, padel and similar s
 
 ## 🔭 I’m currently working on
 
+### [🎾 Set-Point-Android](https://github.com/marrocumarco/Set-Point-Android/)
+
+The Wear OS version of Set-Point.
+
+- Technologies: Kotlin, Jetpack Compose, Dagger Hilt, JUnit, Mockito
+
 ### [🍷 Demo Liquid-Commerce](https://github.com/marrocumarco/Demo-Liquid-Commerce)
 
 Demo Liquid-Commerce is an iOS native e-commerce app that connects the users with the existing [web store](https://www.demoliquid.it), with a modern, user friendly interface.
