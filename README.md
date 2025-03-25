@@ -12,36 +12,27 @@
 
 ## 🖥️ Projects
 
+### [🎾 Set-Point-Android](https://github.com/marrocumarco/Set-Point-Android/)
+
+[![Play Store](./assets/images/GetItOnGooglePlay_Badge_Web_color_English.png)](https://play.google.com/store/apps/details?id=com.marrocumarcodeveloper.set_point)
+
+Set-Point is a WearOS scorekeeping app designed for tennis, padel and similar sports, tracking scores directly from the watch.
+
+- Technologies: Kotlin, Jetpack Compose, Dagger Hilt, JUnit, Mockito
+
 ### [🎾 Set-Point](https://github.com/marrocumarco/Set-Point/)
 
 [![App Store](./assets/images/app_store_logo.svg)](https://apps.apple.com/app/set-point/id6505079778)
 
-Set-Point is a watchOS scorekeeping app designed for tennis, padel and similar sports, tracking scores directly from the Apple Watch.
+The Apple Watch version of Set-Point.
 
 - Technologies: Swift, SwiftUI, Combine, SwiftLint, XCTest
 
 ## 🌱 I’m currently learning
 
-- Android development with Kotlin 🤖
+- Android development with Kotlin and Java 🤖
+- Backend development with Javascript and NodeJS
 
-## 🔭 I’m currently working on
-
-### [🎾 Set-Point-Android](https://github.com/marrocumarco/Set-Point-Android/)
-
-The Wear OS version of Set-Point.
-
-- Technologies: Kotlin, Jetpack Compose, Dagger Hilt, JUnit, Mockito
-
-### [🍷 Demo Liquid-Commerce](https://github.com/marrocumarco/Demo-Liquid-Commerce)
-
-Demo Liquid-Commerce is an iOS native e-commerce app that connects the users with the existing [web store](https://www.demoliquid.it), with a modern, user friendly interface.
-
-- Technologies:
-
-  - FE: Swift, SwiftUI, CommonCrypto, SwiftLint, XCTest
-  
-  - BE: [Woocommerce Api](https://woocommerce.github.io/woocommerce-rest-api-docs/#), [Stripe Api](https://github.com/stripe/stripe-ios), JSON
-  
 <!--
 **marrocumarco/marrocumarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
