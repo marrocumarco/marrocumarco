@@ -14,7 +14,7 @@
 
 ### [🎾 Set-Point-Android](https://github.com/marrocumarco/Set-Point-Android/)
 
-[![Play Store](./assets/images/GetItOnGooglePlay_Badge_Web_color_English.png)](https://play.google.com/store/apps/details?id=com.marrocumarcodeveloper.set_point)
+<a href="https://play.google.com/store/apps/details?id=com.marrocumarcodeveloper.set_point"> <img src="./assets/images/GetItOnGooglePlay_Badge_Web_color_English.png" alt="Play Store" width="123"></a>
 
 Set-Point is a WearOS scorekeeping app designed for tennis, padel and similar sports, tracking scores directly from the watch.
 
